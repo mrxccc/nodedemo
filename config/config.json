@@ -1,0 +1,14 @@
+{
+  "development":{
+    "username": "root",
+    "password": "3wq9EEoQWSZ",
+    "database": "todo_development",
+    "host": "10.122.100.146",
+    "dialect": "mysql",
+    "timezone":"+08:00"
+  },
+  "test": {
+  },
+  "production": {
+  }
+}
